@@ -52,4 +52,47 @@ https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
 https://3abn.bozztv.com/3abn2/Lat_live/smil:Lat_live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="3ABNPraiseHimMusicNetwork.us" tvg-logo="https://i.imgur.com/iBcqT8L.png" group-title="Music;Religious",3ABN Praise Him Music Network
 https://3abn.bozztv.com/3abn1/PraiseHim/smil:PraiseHim.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",莒縣電視二套 (576p) [Not 24/7]
+http://61.162.225.122:8181/live/test2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",萍鄉公共頻道 (1080p) [Not 24/7]
+http://www.pxitv.com:8099/hls-live/livepkgr/_definst_/pxitvevent/pxtv3stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",萍鄉教育頻道 (480p)
+http://www.pxitv.com:8099/hls-live/livepkgr/_definst_/pxitvevent/pxtv2stream.m3u8
+#EXTINF:-1 tvg-id="PingxiangTVNewsChannel.cn" tvg-logo="https://i.imgur.com/Kc7htop.jpg" group-title="News",萍鄉新聞綜合 (576p) [Not 24/7]
+http://www.pxitv.com:8099/hls-live/livepkgr/_definst_/pxitvevent/pxtv1stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",萧山新闻综合 (720p) [Not 24/7]
+https://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",蓬安新闻综合 (720p) [Not 24/7]
+http://palive.patv123.com:8091/live/xwpd_800K.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",蕪湖教育頻道 (576p)
+http://live1.wuhubtv.com/channel4/sd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",蕭山生活頻道 (720p) [Not 24/7]
+https://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
+#EXTINF:-1 tvg-id="XianSilkRoadChannel.cn" tvg-logo="https://i.imgur.com/52i1Qnz.png" group-title="Undefined",西安丝路 (404p) [Not 24/7]
+http://stream2.xiancity.cn/xatv5/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",西安乐购购物 (180p) [Not 24/7]
+http://stream2.xiancity.cn/xatv6/playlist.m3u8
+#EXTINF:-1 tvg-id="XianBusinessInformationChannel.cn" tvg-logo="https://i.imgur.com/dzdiY4O.png" group-title="Business",西安商务资讯 (180p) [Not 24/7]
+http://stream2.xiancity.cn/xatv3/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",西安影视 (180p) [Not 24/7]
+http://stream2.xiancity.cn/xatv4/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",西安新闻 (1080p) [Not 24/7]
+http://stream2.xiancity.cn/xatv1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",西安白鸽 (180p) [Not 24/7]
+http://stream2.xiancity.cn/xatv2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",西藏卫视 (576p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225723/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",西藏卫视 (576p)
+http://117.169.120.140:8080/live/xizangstv/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",西藏卫视 (576p)
+http://183.207.249.16/PLTV/3/224/3221225523/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",贝爷影厅
+http://epg.112114.xyz/douyu/252802
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",贵州卫视 (576p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225728/index.m3u8
+#EXTINF:-1 tvg-id="GuizhouTV.cn" tvg-logo="https://i.imgur.com/nkcKCdr.png" group-title="General",贵州卫视 (576p)
+http://183.207.248.71/gitv/live1/G_GUIZHOU/G_GUIZHOU
+
+
+
 
